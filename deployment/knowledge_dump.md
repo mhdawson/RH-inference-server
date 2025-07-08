@@ -1,4 +1,4 @@
-# Set infernce server using OpenShift
+# Set inference server using OpenShift
 
 Based on the instuctions [here](https://docs.redhat.com/en/documentation/red_hat_ai_inference_server/3.0/html-single/getting_started/index).
 
